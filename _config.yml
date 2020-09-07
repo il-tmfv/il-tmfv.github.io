@@ -1,1 +1,23 @@
-theme: jekyll-theme-cayman
+remote_theme: riggraz/no-style-please
+permalink: /:slug.html
+
+url: https://timofeev.dev/
+description: > # description of the site (multiple lines allowed)
+  Personal page
+
+title: timofeev.dev
+author: Ilya Timofeev
+
+theme_config:
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
+  show_description: false # show blog description in home page
+
+sass:
+  style: :compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+
