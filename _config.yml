@@ -1,2 +1,6 @@
 name: Timofeev Ilya
+
 markdown: kramdown
+
+sass:
+  style: :compressed
