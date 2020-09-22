@@ -12,5 +12,5 @@ links:
 
 interested in:
   - webdev
-  - clojure(script)
+  - (clojure(script))
   - ror
