@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-# Personal page
+# personal page
 
 _WIP_
 
-Links:
-  - GitHub: [il-tmfv](https://github.com/il-tmfv)
+links:
+  - github: [il-tmfv](https://github.com/il-tmfv)
