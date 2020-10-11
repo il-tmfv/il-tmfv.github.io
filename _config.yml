@@ -1,6 +1,6 @@
 title: Timofeev Ilya
 
-markdown: kramdown
+markdown: CommonMarkGhPages
 
 sass:
   style: :compressed
