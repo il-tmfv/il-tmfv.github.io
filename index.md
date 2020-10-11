@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Ilya Timofeev
 ---
 
 # personal page
