@@ -69,3 +69,5 @@ Volzhsky Polytechnical Institute, Volzhsky Master of science
 _September 2006 – May 2011_
 
 Automated systems for information processing and control
+
+-----
