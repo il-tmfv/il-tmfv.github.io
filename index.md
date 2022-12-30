@@ -11,9 +11,11 @@ As a result, I can call myself a full-stack engineer.
 I'm trying to keep up with IT news: I listen to podcasts and read books.
 
 #### PERSONAL INFORMATION
-  Address: [Saint Petersburg](https://www.google.com/maps/place/St+Petersburg/@59.9392259,29.5342919,9z/data=!3m1!4b1!4m5!3m4!1s0x4696378cc74a65ed:0x6dc7673fab848eff!8m2!3d59.9310584!4d30.3609097)
-  Nationality: 
-  Hobbies: Video games, gym, podcasts
+Address: [Saint Petersburg](https://www.google.com/maps/place/St+Petersburg/@59.9392259,29.5342919,9z/data=!3m1!4b1!4m5!3m4!1s0x4696378cc74a65ed:0x6dc7673fab848eff!8m2!3d59.9310584!4d30.3609097)
+
+Nationality: Russian
+
+Hobbies: Video games, gym, podcasts
 
 #### SOCIAL PROFILES
 - LinkedIn: https://www.linkedin.com/in/ilya-timofeev-0724b262
