@@ -22,16 +22,16 @@ Hobbies: Video games, gym, podcasts
 - GitHub: https://github.com/il-tmfv
 
 #### LANGUAGES
-  ★★★★★ Russian
+★★★★★ Russian
 
-  ★★★★☆ English
+★★★★☆ English
 
 #### SKILLS
-  ★★★★☆ Clojure/ClojureScript
+★★★★☆ Clojure/ClojureScript
 
-  ★★★★☆ JavaScript
+★★★★☆ JavaScript
 
-  ★★★★★ Ruby on Rails
+★★★★★ Ruby on Rails
 
 #### WORK EXPERIENCE
 **Software Engineer (remote) at HalalBooking, Reading**
@@ -39,16 +39,16 @@ Hobbies: Video games, gym, podcasts
 _September 2018 – November 2022_
 
 Helped to support and improve Ruby on Rails monolith application with UI partially implemented by several ClojureScript applications including a large SPA section of the website:
-- ruby on rails
-- rspec/integration tests
-- reagent/react
-- postgres
+- `ruby on rails`
+- `rspec`/integration tests
+- `reagent`/`react`
+- `postgres`
 - circle ci
 
 Worked on a Clojure back-end endpoint that served data for the map: markers clustering, filtering, searching, etc:
-- mount
-- hugsql
-- benchmarking with criterium &amp; vegeta
+- `mount`
+- `hugsql`
+- benchmarking with `criterium` &amp; `vegeta`
 - tests
 
 **Front-end Engineer, Saint Petersburg**
@@ -57,11 +57,11 @@ _May 2016 – September 2018_
 
 Worked in different companies on front-end applications:
 
-- react
-- redux
-- mobx
-- elm
-- css-in-js
+- `react`
+- `redux`
+- `mobx`
+- `elm`
+- `css-in-js`
 
 #### EDUCATION
 Volzhsky Polytechnical Institute, Volzhsky Master of science
