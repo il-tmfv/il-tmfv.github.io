@@ -2,20 +2,32 @@ html {
   color: black;
   background-color: white;
   font-family: monospace;
-  font-size: 1.3rem;
-  line-height: 1.3;
+  font-size: 1rem;
+  margin: 1rem;
   -webkit-font-smoothing: antialiased;
 }
 
-h2, h3, h4, h5, h6 { margin-top: 3rem; }
+h4 {
+  margin-top: 2rem;
+  &:before {
+    color: grey;
+    content: '//// ';
+  }
+}
+
+h3 {
+  margin-top: 0rem;
+  &:before {
+    color: grey;
+    content: '/// ';
+  }
+}
 
 hr { margin: 2rem 0; }
 
 p { margin: 1rem 0; }
 
 li { margin: 0.4rem 0; }
-
-*:target { background-color: yellow; }
 
 hr {
   text-align: center;
@@ -35,12 +47,6 @@ table, th, td {
 code {
   color: white;
   background-color: black;
-}
-
-div.highlighter-rouge code {
-  display: block;
-  overflow-x: auto;
-  padding: 1rem;
 }
 
 blockquote {
