@@ -34,11 +34,32 @@ Hobbies: Video games, gym, podcasts
 ★★★★★ Ruby on Rails
 
 #### WORK EXPERIENCE
+**Software Engineer (remote) at Sbermarket, Russia**
+
+_November 2022 – present_
+
+I help to support and improve a very large Ruby on Rails monolith application by doing things like:
+- analysing logs during incidents
+- adding helper methods for logging
+- finding and fixing bugs
+- adding new product features
+- reviewing code from other teams making changes to our team files
+
+using follwing technologies:
+- `ruby on rails`
+- `rspec` tests
+- `mysql`
+- `grafana`
+- `kibana`
+- `sentry`
+- locks
+- gitlab ci
+
 **Software Engineer (remote) at HalalBooking, Reading**
 
 _September 2018 – November 2022_
 
-Helped to support and improve Ruby on Rails monolith application with UI partially implemented by several ClojureScript applications including a large SPA section of the website:
+Helped to support and improve a Ruby on Rails monolith application with UI partially implemented by several ClojureScript applications including a large SPA section of the website:
 - `ruby on rails`
 - `rspec`/integration tests
 - `reagent`/`react`
